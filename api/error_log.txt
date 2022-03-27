@@ -1,0 +1,4 @@
+
+(Time: 1648291023) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM otp_auth WHERE user_id = '1'' at line 1
+(Time: 1648291186) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM otp_auth WHERE user_id = '1'' at line 1
+(Time: 1648291254) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM otp_auth WHERE user_id = 1' at line 1
